@@ -1,0 +1,13 @@
+title: Woodland park 800 research
+location: Multi-Tenant Office, Woodland Park (Sold)
+baseImageUrl: /images/portfolio/
+cover: woodland1.webp
+images:
+  [
+    "woodland1.webp",
+    "woodland2.webp",
+    "woodland3.webp",
+    "woodland4.webp",
+    "woodland5.webp",
+    "woodland6.webp",
+  ]

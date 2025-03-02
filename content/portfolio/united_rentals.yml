@@ -1,0 +1,10 @@
+title: United Rentals
+location: United Rentals, Colorado Springs
+baseImageUrl: /images/portfolio/
+cover: 6050-terminal-avenue.webp
+images:
+  [
+    "lincoln-center.webp",
+    "6050-terminal-avenue.webp",
+    "6050-terminal-ave-w-outline.webp",
+  ]
